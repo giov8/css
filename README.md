@@ -1,5 +1,3 @@
-Aqui estão algumas dicas de CSS que podem ajudar a estilizar o site e serem boas para ensinar aos alunos:
-
 ### 1. **Tipografia Simples**
    - **Fonte Personalizada**: Use o `@import` ou `<link>` para adicionar fontes do Google Fonts. Por exemplo:
      ```css
@@ -148,5 +146,3 @@ Aqui estão algumas dicas de CSS que podem ajudar a estilizar o site e serem boa
        color: black;
      }
      ```
-
-Essas dicas permitem ensinar desde o básico até conceitos mais avançados de forma gradual, o que pode ser ótimo para o progresso dos alunos.
